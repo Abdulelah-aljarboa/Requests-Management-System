@@ -8,3 +8,6 @@
     - PASSWORD = mysql settings
     - DATABASE = mysql settings
     - PRIVATE_KEY = JWT key
+- open two terminals one for the server and one for the react app
+- go to BackEnd folder and run npm start
+- go to FrontEnd/crud_app and run npm start
