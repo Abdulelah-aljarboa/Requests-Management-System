@@ -1,3 +1,7 @@
+# Must Have
+- node and npm
+- mysql 
+
 # Setup
 - clone repo
 - go to BackEnd floder and do npm init
